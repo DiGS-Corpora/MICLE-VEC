@@ -1,10 +1,10 @@
 **ENGLISH VERSION**
 
-*This is the GitHub repository of the venetian part (xml:lang="vec") of the MICLE <https://www.unicaen.fr/projet_de_recherche/micle/> corpus. The full repository can be found on the UniCaen GitLab <https://git.unicaen.fr/mathieu.goux/micle-public>*
+*This is the GitHub repository of the venetian part (xml:lang="vec") of the [MICLE corpus](https://www.unicaen.fr/projet_de_recherche/micle/). The full repository can be found on the [UniCaen GitLab](https://git.unicaen.fr/mathieu.goux/micle-public)*
 
 *Introduction*
 
-- Most of the texts in the corpus are distributed under the CC BY-NC-SA 4.0 (Attribution / NonCommercial / ShareAlike / 4.0 Internal) license <https://creativecommons.org/licenses/by-nc-sa/4.0/>. Some texts, however, are still protected by copyright and cannot be shared freely in this directory. When the MICLE project does not have permission to share the texts, we will only communicate them with their metadata, without the words, in order to allow research, or in limited context, on the TXM-CRISCO portal <https://txm-crisco.huma-num.fr/txm/>, according to art. L122-5CPI of the French legislation, on which the hosting of the project depends.
+- Most of the texts in the corpus are distributed under the [CC BY-NC-SA 4.0 (Attribution / NonCommercial / ShareAlike / 4.0 Internal) license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Some texts, however, are still protected by copyright and cannot be shared freely in this directory. When the MICLE project does not have permission to share the texts, we will only communicate them with their metadata, without the words, in order to allow research, or in limited context, on the [TXM-CRISCO portal](https://txm-crisco.huma-num.fr/txm/), according to art. L122-5CPI of the French legislation, on which the hosting of the project depends.
 
 *Venetian annotation*
 
@@ -12,7 +12,7 @@
 
 *Digital edition*
 
-- For digital editing of the texts, choices of transcriptions and sentence breakdowns, please check the documentation page on the main website: <https://www.unicaen.fr/projet_de_recherche/micle/>.
+- For digital editing of the texts, choices of transcriptions and sentence breakdowns, please check the documentation page on the [main website](https://www.unicaen.fr/projet_de_recherche/micle/).
 
 *File format*
 
@@ -22,7 +22,7 @@
 
 *Access via TXM-CRISCO*
 
-- The XML-TEI version of the corpus has been uploaded to the TXM-CRISCO portal <https://txm-crisco.huma-num.fr/txm/> in the "MICLE" folder, to allow reading by the mile (except for copyrighted texts, see *supra*) and searching through the use of the CQL language <https://www.sketchengine.eu/documentation/corpus-querying/>.
+- The XML-TEI version of the corpus has been uploaded to the [TXM-CRISCO portal](https://txm-crisco.huma-num.fr/txm/) in the "MICLE" folder, to allow reading by the mile (except for copyrighted texts, see *supra*) and searching through the use of [the CQL language](https://www.sketchengine.eu/documentation/corpus-querying/).
 
 *Syntactic parsing*
 
