@@ -6,6 +6,10 @@
 
 - Most of the texts in the corpus are distributed under the [CC BY-NC-SA 4.0 (Attribution / NonCommercial / ShareAlike / 4.0 Internal) license](https://creativecommons.org/licenses/by-nc-sa/4.0/). Some texts, however, are still protected by copyright and cannot be shared freely in this directory. When the MICLE project does not have permission to share the texts, we will only communicate them with their metadata, without the words, in order to allow research, or in limited context, on the [TXM-CRISCO portal](https://txm-crisco.huma-num.fr/txm/), according to art. L122-5CPI of the French legislation, on which the hosting of the project depends.
 
+*Text selection*
+
+- The digital edition was curated and organised by Natasha Romanova, with the help of Leah Pavcic and Francesca Santangelo.
+
 *Venetian annotation*
 
 - The Venetian part was annotated manually by Francesco Pinzin in PSD format, in the absence of sufficient documentation for this language, directly in the UPENN system. The labels were then converted to the UD model to serve as a future training model, with some syntactic indications.
