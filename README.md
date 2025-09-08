@@ -13,6 +13,7 @@
 *Venetian annotation*
 
 - The Venetian part was annotated manually by Francesco Pinzin in PSD format, in the absence of sufficient documentation for this language, directly in the UPENN system. The labels were then converted to the UD model to serve as a future training model, with some syntactic indications.
+- Leah Pavcic contributed substantially to the PoS annotation of the corpus.
 
 *Digital edition*
 
